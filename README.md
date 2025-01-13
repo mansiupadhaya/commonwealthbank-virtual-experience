@@ -11,4 +11,6 @@ Through the Commonwealth Bank Cybersecurity Virtual Experience, I honed a divers
 
 I thoroughly enjoyed the experience, as it provided a practical, hands-on approach to understanding key cybersecurity concepts. The tasks not only allowed me to work on improving my technical skills, but also helped me think critically about cybersecurity issues in a business context.
 
-![image](https://github.com/user-attachments/assets/8cdaa42b-c56f-40a8-87e4-8d2d8a39e384)
+
+![1734219547782-14f81319-9bb5-4850-a810-eaa3657cf795_1](https://github.com/user-attachments/assets/1c2370d0-028b-4c26-9f00-89f1369ade02)
+
