@@ -1,3 +1,5 @@
+# Task 1: Data Analysis
+
 This task marked my first experience using Splunk Enterprise, a powerful tool for data analysis and visualisation
 
 Initially, I spent some time familiarising myself with its interface and functionalities. Being new to Splunk, the task guide provided helped me quickly learn how to import datasets, explore data fields, and build a dashboard through the platform's user-friendly features and documentation. The objective of this task was to uncover trends and patterns in fraud-related data and create a dashboard.
